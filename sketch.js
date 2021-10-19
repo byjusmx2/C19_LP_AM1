@@ -68,7 +68,7 @@ function draw(){
     stroke("yellow");
     fill("yellow");
     textSize(30);
-    text("Game Over", 230,250)
+    text("Fin del juego", 230,250)
   }
 
 }
